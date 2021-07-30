@@ -79,7 +79,6 @@ class SingleSeries extends Component {
                                                             align="left"
                                                             noWrap
                                                             style={{
-                                                                cursor: 'pointer',
                                                                 paddingTop: '0.2em',
                                                                 color: 'rosybrown'
                                                             }}>
